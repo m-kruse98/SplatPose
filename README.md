@@ -1,7 +1,7 @@
 # SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection 
 
 This is the official code to the paper 
-[**"SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection"**](http://www.tnt.uni-hannover.de/en/staff/kruse/) 
+[**"SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection"**](https://arxiv.org/pdf/2404.06832.pdf) 
 by Mathis Kruse, Marco Rudolph, Dominik Woiwode, and Bodo Rosenhahn
 which was accepted to the CVPR 2024 Workshop VAND 2.0.
 
