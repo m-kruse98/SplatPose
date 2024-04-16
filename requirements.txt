@@ -1,0 +1,11 @@
+matplotlib==3.5.3
+Pillow==9.5.0
+scikit_learn==1.0.2
+scipy==1.7.3
+opencv-python==4.9.0.80
+wandb==0.16.2
+easydict==1.11
+einops==0.6.1
+kornia==0.6.12
+yacs==0.1.8
+gdown==4.7.3
