@@ -20,11 +20,13 @@ which was accepted to the CVPR 2024 Workshop VAND 2.0.
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@inproceedings{kruseSplatPose,
-      author       = {Kruse, Mathis and Rudolph, Marco and Woiwode, Dominik and Rosenhahn, Bodo},
-      title        = {SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection},
-      booktitle    = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-      year         = {2024},
+    <pre><code>@InProceedings{Kruse_2024_CVPR,
+    author    = {Kruse, Mathis and Rudolph, Marco and Woiwode, Dominik and Rosenhahn, Bodo},
+    title     = {SplatPose \& Detect: Pose-Agnostic 3D Anomaly Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {3950-3960}
 }</code></pre>
   </div>
 </section>
