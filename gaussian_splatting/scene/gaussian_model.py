@@ -429,8 +429,7 @@ class DiffGaussianModel(GaussianModel):
 
     @property
     def get_rotation(self):
-        return self.rotation_activation(quat_mul(self._rotation,
-                                        torch.broadcast_to(quaternion_invert(self.r_quat),
-                                                           (self._rotation.shape[0], 4))))
+        return self.rotation_activation(quat_mul(torch.broadcast_to(quaternion_invert(self.r_quat), (self._rotation.shape[0], 4)),
+                                                 self._rotation))
         
 
